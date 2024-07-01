@@ -1,0 +1,42 @@
+.orderStat {
+    border-radius: 30px;
+    padding: 26px;
+    text-align: center;
+    margin: 28px;
+    background-color:white;
+    width: 230px;
+  }
+  
+  .title {
+    position: relative;
+    bottom: 10%;
+    right: 20%;
+    color: #333;
+  }
+  
+  .value {
+    padding: 0%;
+    margin: 0%;
+    color: #000000;
+    
+  }
+  
+  .status {
+    position: relative;
+    bottom: 80%;
+    left: 42%;
+    font-size: 1rem;
+     @media (max-width: 768px) {
+      position: relative;
+      left: 40%;
+    }
+  }
+  
+  .positive {
+    color: green;
+  }
+  
+  .negative {
+    color: red;
+  }
+  

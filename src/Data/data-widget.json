@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Revenue",
+      "status": "-10%",
+      "rate": "$2,047",
+      "color" : "orange"
+    },
+    {
+      "id": 2,
+      "title": "Orders",
+      "status": "+20%",
+      "orders": 346,
+      "color" : "green"
+    },
+    {
+      "id": 3,
+      "title": "Dine-In",
+      "status": "+20%",
+      "orders": 200,
+      "color" : "red"
+    },
+    {
+      "id": 4,
+      "title": "Takeaway",
+      "status": "-5%",
+      "orders": 135,
+      "color" : "yellow"
+    }
+  ]
+  
